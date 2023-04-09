@@ -3,63 +3,63 @@
       "id":"1",
       "name": "Breakfast",
       "imageSrc": "1.jpg",
-      "altText": "Breakfast category image",
-      "href": "1"
+      "altText": "Breakfast",
+      "href": "/allproducts/breakfast"
     },
     {
       "id":"2",
-      "name": "Breakfast",
+      "name": "Burgers",
       "imageSrc": "2.jpg",
-      "altText": "Breakfast category image",
-      "href": "2"
+      "altText": "Burgers",
+      "href": "/allproducts/burgers"
     },
     {
       "id":"3",
-      "name": "Breakfast",
+      "name": "Sweets & Treats",
       "imageSrc": "3.jpg",
-      "altText": "Breakfast category image",
-      "href": "3"
+      "altText": "Sweets & Treats",
+      "href": "/allproducts/sweet-&-treet"
     },
     {
       "id":"4",
-      "name": "Breakfast",
+      "name": "Beverages",
       "imageSrc": "4.jpg",
-      "altText": "Breakfast category image",
-      "href": "4"
+      "altText": "Beverages",
+      "href": "/allproducts/beverages"
     },
     {
       "id":"5",
-      "name": "Breakfast",
+      "name": "McCafé® Coffees",
       "imageSrc": "5.jpg",
-      "altText": "Breakfast category image",
-      "href": "5"
+      "altText": "McCafé® Coffees",
+      "href": "/allproducts/coffees"
     },
     {
       "id":"6",
-      "name": "Breakfast",
+      "name": "McCafé® Bakery",
       "imageSrc": "6.jpg",
-      "altText": "Breakfast category image",
-      "href": "6"
+      "altText": "McCafé® Bakery",
+      "href": "/allproducts/bakery"
     },
     {
       "id":"7",
-      "name": "Breakfast",
+      "name": "Chicken & Fish Sandwiches",
       "imageSrc": "7.jpg",
-      "altText": "Breakfast category image",
-      "href": "7"
+      "altText": "Chicken & Fish Sandwiches",
+      "href": "/allproducts/chicken-&-fish-sandwiches"
     },
     {
       "id":"8",
-      "name": "Breakfast",
+      "name": "Happy Meal®",
       "imageSrc": "8.jpg",
-      "altText": "Breakfast category image",
-      "href": "8"
+      "altText": "Happy Meal®",
+      "href": "/allproducts/happy-meal"
     },
     {
       "id":"9",
-      "name": "Breakfast",
+      "name": "McNuggets® and Meals",
       "imageSrc": "9.jpg",
-      "altText": "Breakfast category image",
-      "href": "9"
+      "altText": "McNuggets® and Meals",
+      "href": "/allproducts/nuggets"
     }
 ]
