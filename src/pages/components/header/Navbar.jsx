@@ -66,7 +66,7 @@ export default function Example(href) {
           </div>
         </div>
         <div className='justify-between hidden xl:flex w-full'>
-          <Link href="allproducts" className={router.pathname == `/allproducts` ? `${active}` : `${normal}`} >
+          <Link href="/allproducts" className={router.pathname == `/allproducts` ? `${active}` : `${normal}`} >
             Product <i className="fa-solid fa-chevron-down ml-4 ease-in-out duration-300 text-center"></i>
           </Link>
           <div className='hidden nav-products absolute right-0 left-0 top-0 w-screen border border-gray-400 py-8 bg-white mt-[124px] z-10'>
