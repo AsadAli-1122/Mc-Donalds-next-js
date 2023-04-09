@@ -1,0 +1,65 @@
+[
+    {
+      "id":"1",
+      "name": "Breakfast",
+      "imageSrc": "1.jpg",
+      "altText": "Breakfast category image",
+      "href": "1"
+    },
+    {
+      "id":"2",
+      "name": "Breakfast",
+      "imageSrc": "2.jpg",
+      "altText": "Breakfast category image",
+      "href": "2"
+    },
+    {
+      "id":"3",
+      "name": "Breakfast",
+      "imageSrc": "3.jpg",
+      "altText": "Breakfast category image",
+      "href": "3"
+    },
+    {
+      "id":"4",
+      "name": "Breakfast",
+      "imageSrc": "4.jpg",
+      "altText": "Breakfast category image",
+      "href": "4"
+    },
+    {
+      "id":"5",
+      "name": "Breakfast",
+      "imageSrc": "5.jpg",
+      "altText": "Breakfast category image",
+      "href": "5"
+    },
+    {
+      "id":"6",
+      "name": "Breakfast",
+      "imageSrc": "6.jpg",
+      "altText": "Breakfast category image",
+      "href": "6"
+    },
+    {
+      "id":"7",
+      "name": "Breakfast",
+      "imageSrc": "7.jpg",
+      "altText": "Breakfast category image",
+      "href": "7"
+    },
+    {
+      "id":"8",
+      "name": "Breakfast",
+      "imageSrc": "8.jpg",
+      "altText": "Breakfast category image",
+      "href": "8"
+    },
+    {
+      "id":"9",
+      "name": "Breakfast",
+      "imageSrc": "9.jpg",
+      "altText": "Breakfast category image",
+      "href": "9"
+    }
+]
