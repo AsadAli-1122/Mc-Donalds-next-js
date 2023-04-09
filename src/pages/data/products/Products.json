@@ -4,62 +4,485 @@
       "name": "Breakfast",
       "imageSrc": "1.jpg",
       "altText": "Breakfast",
-      "href": "/allproducts/breakfast"
+      "href": "/allproducts/breakfast",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"2",
       "name": "Burgers",
       "imageSrc": "2.jpg",
       "altText": "Burgers",
-      "href": "/allproducts/burgers"
+      "href": "/allproducts/burgers",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"3",
       "name": "Sweets & Treats",
       "imageSrc": "3.jpg",
       "altText": "Sweets & Treats",
-      "href": "/allproducts/sweet-&-treet"
+      "href": "/allproducts/sweet-&-treet",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"4",
       "name": "Beverages",
       "imageSrc": "4.jpg",
       "altText": "Beverages",
-      "href": "/allproducts/beverages"
+      "href": "/allproducts/beverages",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"5",
       "name": "McCafé® Coffees",
       "imageSrc": "5.jpg",
       "altText": "McCafé® Coffees",
-      "href": "/allproducts/coffees"
+      "href": "/allproducts/coffees",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"6",
       "name": "McCafé® Bakery",
       "imageSrc": "6.jpg",
       "altText": "McCafé® Bakery",
-      "href": "/allproducts/bakery"
+      "href": "/allproducts/bakery",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"7",
       "name": "Chicken & Fish Sandwiches",
       "imageSrc": "7.jpg",
       "altText": "Chicken & Fish Sandwiches",
-      "href": "/allproducts/chicken-&-fish-sandwiches"
+      "href": "/allproducts/chicken-&-fish-sandwiches",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"8",
       "name": "Happy Meal®",
       "imageSrc": "8.jpg",
       "altText": "Happy Meal®",
-      "href": "/allproducts/happy-meal"
+      "href": "/allproducts/happy-meal",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     },
     {
       "id":"9",
       "name": "McNuggets® and Meals",
       "imageSrc": "9.jpg",
       "altText": "McNuggets® and Meals",
-      "href": "/allproducts/nuggets"
+      "href": "/allproducts/nuggets",
+      "products": [
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        },
+        {
+          "name": "Bacon, Egg  & Cheese Biscuit",
+          "imgSrc": "",
+          "price": "$2.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "imgSrc": "",
+          "price": "$4.99"
+        },
+        {
+          "name": "Sausage McMuffin®",
+          "imgSrc": "",
+          "price": "$6.99"
+        }
+      ]
     }
 ]

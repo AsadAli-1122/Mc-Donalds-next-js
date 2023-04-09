@@ -6,8 +6,8 @@ import React from 'react'
 
 export default function Sidebar() {
     const router = useRouter();
-    const active = "flex items-center pl-4 pr-2 space-x-4 border-l-4 border-red-700";
-    const normal = "flex items-center pl-4 pr-2 space-x-4 border-l-4 border-white hover:border-l-4 hover:border-red-700";
+    const active = "flex items-center pl-4 pr-2 pb-1 space-x-4 border-l-4 border-red-700";
+    const normal = "flex items-center pl-4 pr-2 pb-1 space-x-4 border-l-4 border-white hover:border-l-4 hover:border-red-700";
   return (
     <>
     <div className='inline-block'>
