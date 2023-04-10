@@ -16,7 +16,7 @@ export default function Layoutallproducts({children,title}) {
       <div className="flex max-w-6xl mx-auto space-x-6">
         <main className="w-full h-auto">{children}</main>
       </div>
-      <div className='cmn flex flex-col space-y-12 py-12'>
+      <div className='max-w-6xl mx-auto flex flex-col space-y-12 py-12'>
         <p className='text-[15px]'>Ready to order? Get the McDonald's App to place an order for Drive Thru and Curbside pickup, for your favorite McDonald's food and beverages, or order McDelivery! Our full McDonald's menu features everything from breakfast menu items, burgers, and more! The McDonald's lunch and dinner menu lists popular favorites including the Big Mac® and our World Famous Fries®. The full menu at McDonald's has something to feed your cravings!</p>
         <p className='text-xs'>*Weight before cooking 4 oz.</p>
         <div className='grid grid-cols-3 h-full'>
