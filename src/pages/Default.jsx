@@ -1,5 +1,5 @@
 import Layoutdefault from './components/Layouts/Layoutdefault'
-import Posters from '../pages/data/posters/Default.json'
+import Posters from '../pages/data/posters/PostersData.json'
 import Image from 'next/image'
 import { Button } from '@mui/material'
 
@@ -7,7 +7,7 @@ export default function Default() {
   return (
     <Layoutdefault title="McDonald's: Burgers, Fries & More. Quality Ingredients.">
       <div className='my-20'>
-        {Posters.map((poster) => (
+        {Posters.Default.map((poster) => (
           <div key={poster.id} className='flex flex-col xl:flex-row cmn my-20'>
             <div className=''>
               <Image

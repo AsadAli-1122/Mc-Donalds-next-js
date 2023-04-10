@@ -1,0 +1,95 @@
+{
+    "Default": [
+        {
+            "id": "1",
+            "imgSrc": "/images/1PUB_ROA_2336x1040v2.jpg",
+            "title": "New: Faster Faves, Only in the App",
+            "description": "We now prep when you’re on the way if you choose Curbside, Front Counter—or dine in for Table Service. Just order ahead in the app to save time. Because waiting in line for faves? Not our thing either.*",
+            "smallDetails": "*At participating McDonald’s.",
+            "btnText": "Order Ahead in the App"
+        },
+        {
+            "id": "2",
+            "imgSrc": "/images/1PUB_McCrispy_2336x1040.jpg",
+            "title": "Try the New Bacon Ranch McCrispy™*",
+            "description": "Applewood smoked bacon? Yes. Creamy ranch sauce? Double yes... Try it today, for a limited time only—or go a little extra with toppings and get the Bacon Ranch Deluxe McCrispy™.",
+            "smallDetails": "*At participating McDonald's for a limited time.",
+            "btnText": "Order a McCrispy™ in the App"
+        },
+        {
+            "id": "3",
+            "imgSrc": "/images/1pub_McDeliveryintheApp_Launch_2336x1040_v3.jpg",
+            "title": "Score Free Food with McDelivery®",
+            "description": "Earn MyMcDonald’s Rewards points on every McDelivery order only in the McD’s app to redeem for free food. And, yup, you can get ‘em delivered, too. Just order, relax and enjoy—check out how easy ordering delivery is in the app.*",
+            "smallDetails": "*At participating McDonald's. Only in the app. App registration required. Must be opted into MyMcDonald's Rewards.",
+            "btnText": "Earn Points with McDelivery"
+        },
+        {
+            "id": "4",
+            "imgSrc": "/images/1pub_FreeBigMac_2336x1040v7.jpg",
+            "title": "Free Big Mac®. One for the Price of None.",
+            "description": "Download the McD’s app to score a free Big Mac with $1 minimum purchase. The burger with the special sauce could be in your hands today. Get yours for a limited time.*",
+            "smallDetails": "*Offer valid 1x thru the last day of the month for first time app users at participating McDonald's. May take up to 48 hours to appear in your deals. Excludes tax.",
+            "btnText": "Get a Free Big Mac"
+        },
+        {
+            "id": "5",
+            "imgSrc": "/images/1PUB_Spotlight_Dorado_1168x520.jpg",
+            "title": "Your Story Deserves a Hollywood Ending",
+            "description": "Latinos have stories to tell, yet they make up less than 1% of the ones told in Hollywood. As a champion of the Hispanic community McDonald’s wants to help change that. With Spotlight Dorado, McDonald’s is giving aspiring Latino filmmakers a chance to participate in a short film competition. Aspiring filmmakers will bring their vision to life having their story produced into a short film with invaluable mentorship from renowned industry leaders and a chance to showcase their film in film festivals around the country.",
+            "btnText": "Learn More About Spotlight Dorado"
+        },
+        {
+            "id": "7",
+            "imgSrc": "/images/1PUB_Desktop_Deals-v1_1168x520.jpg",
+            "title": "Deals for Days",
+            "description": "Get exclusive deals on your McDonald’s favorites in the app with contactless Mobile Order & Pay* and convenient Drive Thru or Curbside pickup.",
+            "smallDetails": "*Mobile Order & Pay at participating McDonald’s.",
+            "btnText": "Get App Deals"
+        }
+    ],
+    "Download": [
+        {
+            "id": "1",
+            "imgSrc": "/images/1PUB_ROA_2336x1040v2.jpg",
+            "title": "New: Faster Faves, Only in the App",
+            "description": "We now prep when you’re on the way if you choose Curbside, Front Counter—or dine in for Table Service. Just order ahead in the app to save time. Because waiting in line for faves? Not our thing either.*",
+            "smallDetails": "*At participating McDonald’s.",
+            "btnText": "Order Ahead in the App"
+        },
+        {
+            "id": "2",
+            "imgSrc": "/images/1pub_McDeliveryintheApp_Launch_2336x1040_v3.jpg",
+            "title": "Score Free Food with McDelivery®",
+            "description": "Earn MyMcDonald’s Rewards points on every McDelivery order only in the McD’s app to redeem for free food. And, yup, you can get ‘em delivered, too. Just order, relax and enjoy—check out how easy ordering delivery is in the app.*",
+            "smallDetails": "*At participating McDonald's. Only in the app. App registration required. Must be opted into MyMcDonald's Rewards.",
+            "btnText": "Earn Points with McDelivery"
+        },
+        {
+            "id": "3",
+            "imgSrc": "/images/1pub_FreeBigMac_2336x1040v7.jpg",
+            "title": "Free Big Mac®. One for the Price of None.",
+            "description": "Download the McD’s app to score a free Big Mac with $1 minimum purchase. The burger with the special sauce could be in your hands today. Get yours for a limited time.*",
+            "smallDetails": "*Offer valid 1x thru the last day of the month for first time app users at participating McDonald's. May take up to 48 hours to appear in your deals. Excludes tax.",
+            "btnText": "Get a Free Big Mac"
+        },
+        {
+            "id": "4",
+            "imgSrc": "/images/1PUB_Spotlight_Dorado_1168x520.jpg",
+            "title": "Now More Ways to Pay for Faves",
+            "description": "Get faves fast with Mobile Order & Pay* in the app. Use your preferred debit or credit card, Apple Pay, Google Pay™, PayPal or Venmo.",
+            "smallDetails": "*McDonald’s app download and registration required. Mobile Order & Pay available at participating McDonald’s.",
+            "btnText": "Order in the App"
+        }
+    ],
+    "Rewards": [
+        {
+            "id": "1",
+            "imgSrc": "/images/1pub_FreeBigMac_2336x1040v7.jpg",
+            "title": "Free Big Mac®. One for the Price of None.",
+            "description": "Download the McD’s app to score a free Big Mac with $1 minimum purchase. The burger with the special sauce could be in your hands today. Get yours for a limited time.*",
+            "smallDetails": "*Offer valid 1x thru the last day of the month for first time app users at participating McDonald's. May take up to 48 hours to appear in your deals. Excludes tax.",
+            "btnText": "Get a Free Big Mac"
+        }
+    ]
+}

@@ -5,13 +5,13 @@ import { Button } from "@mui/material";
 import Link from "next/link";
 import Image from "next/image";
 
-export default function Layoutallproducts({children,title}) {
+export default function Layoutallproducts({ children, title }) {
 
   return (
     <div>
-        <Head>
-            <title>{title}</title>
-        </Head>
+      <Head>
+        <title>{title}</title>
+      </Head>
       <Header />
       <div className="flex max-w-6xl mx-auto space-x-6">
         <main className="w-full h-auto">{children}</main>
