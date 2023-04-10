@@ -1,5 +1,110 @@
 [
   {
+    "id": "featured-favorites",
+    "name": "Featured Favorites",
+    "imageSrc": "product (6).jpg",
+    "altText": "featured-favorites",
+    "href": "/allproducts",
+    "products": [
+      {
+        "id": "bacon-egg-&-chesse-biscuit",
+        "name": "Bacon, Egg & Cheese Biscuit",
+        "imgSrc": "product (16).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+      {
+        "name": "Egg McMuffin®",
+        "imgSrc": "",
+        "price": "$4.99"
+      },
+      {
+        "name": "Sausage McMuffin®",
+        "imgSrc": "",
+        "price": "$6.99"
+      },
+      {
+        "name": "Bacon, Egg  & Cheese Biscuit",
+        "imgSrc": "",
+        "price": "$2.99"
+      },
+      {
+        "name": "Egg McMuffin®",
+        "imgSrc": "",
+        "price": "$4.99"
+      },
+      {
+        "name": "Sausage McMuffin®",
+        "imgSrc": "",
+        "price": "$6.99"
+      },
+      {
+        "name": "Bacon, Egg  & Cheese Biscuit",
+        "imgSrc": "",
+        "price": "$2.99"
+      },
+      {
+        "name": "Egg McMuffin®",
+        "imgSrc": "",
+        "price": "$4.99"
+      },
+      {
+        "name": "Sausage McMuffin®",
+        "imgSrc": "",
+        "price": "$6.99"
+      }
+    ]
+  },
+  {
     "id": "breakfast",
     "name": "Breakfast",
     "imageSrc": "1.jpg",
@@ -7,10 +112,61 @@
     "href": "/allproducts/breakfast",
     "products": [
       {
-        "name": "Bacon, Egg  & Cheese Biscuit",
-        "imgSrc": "",
-        "price": "$2.99"
-      },
+        "id": "bacon-egg-&-chesse-biscuit",
+        "name": "Bacon, Egg & Cheese Biscuit",
+        "imgSrc": "product (16).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
       {
         "name": "Egg McMuffin®",
         "imgSrc": "",

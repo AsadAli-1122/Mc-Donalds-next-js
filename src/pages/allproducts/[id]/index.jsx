@@ -11,10 +11,8 @@ export default function index() {
   const router = useRouter();
   const { id } = router.query;
 
-  // Find the product with matching ID
   const cat = Products.find(p => p.id === id);
 
-  // Return an error message if the product is not found
   if (!cat) {
     return (
       <Layoutallproducts>
@@ -28,9 +26,8 @@ export default function index() {
     );
   }
   
-
   return (
-    <Layoutallproducts>
+    <Layoutallproducts title={`Mc'Donalds | ${cat.name}`}>
       <main>
         <div className='flex justify-between'>
           <Sidebar />
@@ -39,21 +36,21 @@ export default function index() {
               <h2 className='text-center text-5xl font-bold'>{cat.name}</h2>
             </div>
             <div className='grid grid-cols-3'>
-              {cat.products.map((product) => (
-                <div className='flex flex-col justify-center items-center w-full p-3 text-center font-semibold'>
-                  <Link href="" className='flex flex-col space-x-6'>
-                    <Image
-                      src=""
-                      alt={product.altText}
-                      width={2200}
-                      height={600}
-                      className='w-44'
-                      priority
-                    />
-                    <p className='text-center font-semibold'>{product.name}</p>
-                  </Link>
-                </div>
-              ))}
+              {cat.products.map((item)=>(
+            <div key={item.id} className='flex flex-col justify-center items-center w-full p-3 text-center font-semibold'>
+              <Link href={`/allproducts/${cat.id}/${item.id}`} className='flex flex-col items-center justify-center space-x-6'>
+                <Image
+                  src={`/images/products/allproducts/${item.imgSrc}`}
+                  alt={item.name}
+                  width={600}
+                  height={600}
+                  className='w-44'
+                  priority
+                />
+                <p className='text-xl'>{item.name}</p>
+              </Link>
+            </div>
+            ))}
             </div>
           </div>
         </div>

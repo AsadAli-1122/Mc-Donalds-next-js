@@ -8,41 +8,50 @@ import products from '../../data/products/Products.json'
 
 const pages = [
   {
+    id: "download",
     name: "Download App",
-    herf: "/download"
+    herf: "download"
   },
   {
+    id: "rewards",
     name: "MyMcDonald's Rewards",
-    herf: "/rewards"
+    herf: "rewards"
   },
   {
+    id: "deals",
     name: "Exclusive Deals",
-    herf: "/deals"
+    herf: "deals"
   },
   {
+    id: "about",
     name: "About Our Food",
-    herf: "/about"
+    herf: "about"
   },
   {
+    id: "locate",
     name: "Locate",
-    herf: "/locate"
+    herf: "locate"
   },
   {
+    id: "gift",
     name: "Gift Cards",
-    herf: "/gift"
+    herf: "gift"
   },
 ]
 
 
-export default function Example(href) {
+export default function Example() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const router = useRouter();
 
   const normal = "nav-product pb-5 border-b-4 border-white hover:border-b-4 hover:border-red-700";
   const active = "nav-product font-semibold border-b-4 border-red-700"
 
+  // const featuredFavorites = Products.filter((product) => product.id === "featured-favorites");
+  // const otherProducts = Products.filter((product) => product.id !== "featured-favorites");
+
   return (
-    
+
     <div className="bg-white w-full mt-8">
       <div className="flex xl:hidden w-full">
         <button
@@ -66,8 +75,8 @@ export default function Example(href) {
           </div>
         </div>
         <div className='justify-between hidden xl:flex w-full'>
-          <Link href="/allproducts" className={router.pathname == `/allproducts` ? `${active}` : `${normal}`} >
-            Product <i className="fa-solid fa-chevron-down ml-4 ease-in-out duration-300 text-center"></i>
+          <Link href="/allproducts" className={router.pathname.includes('allproducts') ? `${active}` : `${normal}`} >
+            Our Menu <i className="fa-solid fa-chevron-down ml-6 ease-in-out duration-300 text-center"></i>
           </Link>
           <div className='hidden nav-products absolute right-0 left-0 top-0 w-screen border border-gray-400 py-8 bg-white mt-[124px] z-10'>
             <div className=' max-w-6xl mx-auto grid xl:grid-cols-3 pb-8'>
@@ -89,15 +98,20 @@ export default function Example(href) {
             </div>
             <div className='flex justify-center items-center'>
               <Link href="/allproducts">
-              <Button variant="contained" className='btn' >See All Products</Button>
+                <Button variant="contained" className='btn' >See All Products</Button>
               </Link>
             </div>
           </div>
-          {pages.map((page, index) => (
-            <Link key={index} href={page.herf} className={router.pathname == `/${page.herf}` ? `${active}` : `${normal}`} >
+          {pages.map((page) => (
+            <Link
+              key={page.id}
+              href={`/${page.id}`}
+              className={router.pathname.includes(`${page.id}`) ? `${active}` : `${normal}`}
+            >
               {page.name}
             </Link>
           ))}
+
         </div>
       </div>
       <Dialog as="div" className="xl:hidden" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
@@ -143,9 +157,9 @@ export default function Example(href) {
               </Disclosure.Panel>
             </Disclosure>
             <div className='flex flex-col space-y-4'>
-{/* Mobile  */}
-              {pages.map((page, index) => (
-                <Link key={index} href={page.herf} className="font-xl" >
+              {/* Mobile  */}
+              {pages.map((page) => (
+                <Link key={page.id} href={page.herf} className="font-xl" >
                   {page.name}
                 </Link>
               ))}

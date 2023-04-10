@@ -1,0 +1,450 @@
+[
+    {
+        "id": "spicy-mrcrispy",
+        "name": "Spicy McCrispy™",
+        "imgSrc": "product (16).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+    {
+        "id": "big-mac",
+        "name": "Big Mac®",
+        "imgSrc": "product (15).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+    {
+        "id": "chicken-mcnuggets",
+        "name": "Chicken McNuggets®",
+        "imgSrc": "product (79).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+    {
+        "id": "world-famous-fries",
+        "name": "World Famous Fries®",
+        "imgSrc": "product (70).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+    {
+        "id": "quarter-pounder",
+        "name": "Quarter Pounder®* with Cheese",
+        "imgSrc": "product (107).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+    {
+        "id": "iced-coffee",
+        "name": "Iced Coffee",
+        "imgSrc": "product (25).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+    {
+        "id": "egg-mcmuffin",
+        "name": "Egg McMuffin®",
+        "imgSrc": "product (51).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    },
+    {
+        "id": "sausage-burrito",
+        "name": "Sausage Burrito",
+        "imgSrc": "product (74).jpg",
+        "href": "",
+        "weight": "",
+        "description": [
+            {
+                "details": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot."
+            },
+            {
+                "details": "The Spicy McCrispy™ has 530 calories. Enjoy it on its own or grab a Spicy McCrispy™ meal with our World Famous Fries® and a medium Sweet Tea."
+            },
+            {
+                "details": "Check out all the McCrispy™ sandwiches and order one today from our full menu in the app for McDelivery® or pickup.*"
+            },
+            {
+                "details": "*Mobile Order & Pay and McDelivery at participating McDonald's. McD app download and registration required."
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Crispy Chicken Fillet",
+                "imgSrc": ""
+            },
+            {
+                "name": "Potato Roll",
+                "imgSrc": ""
+            },
+            {
+                "name": "Spicy Pepper Sauce",
+                "imgSrc": ""
+            },
+            {
+                "name": "Crinkle Cut Pickle",
+                "imgSrc": ""
+            }
+        ],
+        "nutration": [
+            {
+                "calories": "530 Cal.",
+                "tfat": "26",
+                "fat": "33",
+                "carbs": "48",
+                "tcarbs": "17",
+                "protein": "27",
+                "saturatedFat": "4"
+            }
+        ],
+        "allergenInformation": [
+            {
+                "name": "Allergen Information",
+                "description": "Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin."
+            }
+        ]
+    }
+]
