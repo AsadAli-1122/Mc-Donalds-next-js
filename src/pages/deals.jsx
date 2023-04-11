@@ -10,7 +10,7 @@ export default function Deals() {
     <Layoutdefault title="McDonald’s Coupons & Deals Near Me | McDonald’s" >
 
 
-      <div className='mx-auto px-10 text-center text-5xl mt-20 mb-10 font-bold'>MyMcDonald’s Rewards</div>
+      <div className='mx-auto px-10 text-center text-5xl mt-20 mb-10 font-bold'>MyMcDonald&apos;s Rewards</div>
 
       <div className='my-20'>
         {Posters.Deals.map((poster) => (
@@ -50,8 +50,8 @@ export default function Deals() {
           <div className="py-7 flex flex-col space-y-6">
             <div className='flex flex-col space-y-4'>
               <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">$0.99 for Any Size Coffee*</h1>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">That’s 99 reasons to go for Premium Roast or Iced Coffee at any time, only in the app.</p>
-              <p className='text-xs'>*Offer valid  thru 12/31/23 at participating McDonald’s. Valid 1x/day. Refer to McD app for details. Mobile Order & Pay at Participating McDonald’s. McD app download and registration required.</p>
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">That&apos;s 99 reasons to go for Premium Roast or Iced Coffee at any time, only in the app.</p>
+              <p className='text-xs'>*Offer valid  thru 12/31/23 at participating McDonald&apos;s. Valid 1x/day. Refer to McD app for details. Mobile Order & Pay at Participating McDonald&apos;s. McD app download and registration required.</p>
               <Button variant='contained' className='btn' >Get Deal in the App</Button>
             </div>
           </div>
@@ -70,8 +70,8 @@ export default function Deals() {
           <div className="py-7 flex flex-col space-y-6">
             <div className='flex flex-col space-y-4'>
               <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Free Fries Friday</h1>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Get a free medium Fries with any $1 minimum purchase, only in the McDonald’s app.* Make it fry day with a friend.</p>
-              <p className='text-xs'>*Must be opted into Rewards. Valid 1x each Friday thru 12/31/23 at participating McDonald’s. Excludes tax.</p>
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Get a free medium Fries with any $1 minimum purchase, only in the McDonald&apos;s app.* Make it fry day with a friend.</p>
+              <p className='text-xs'>*Must be opted into Rewards. Valid 1x each Friday thru 12/31/23 at participating McDonald&apos;s. Excludes tax.</p>
               <Button variant='contained' className='btn' >Get Free Fries in the App</Button>
             </div>
           </div>
@@ -92,7 +92,7 @@ export default function Deals() {
         <div className='flex flex-col space-y-8 justify-between h-auto'>
           <h1 className='text-4xl font-bold'>Get Your Free Fries* with Contactless Mobile Ordering and Curbside Pickup</h1>
           <p className='font-semibold'>Get free medium Fries every Friday with any minimum $1 purchase.*</p>
-          <p className='text-xs'>*Offer valid 1x each Friday thru 12/31/23 with minimum purchase of $1 (excluding tax). McD app download and registration required. ©2023 McDonald's</p>
+          <p className='text-xs'>*Offer valid 1x each Friday thru 12/31/23 with minimum purchase of $1 (excluding tax). McD app download and registration required. ©2023 McDonald&apos;s</p>
           <Button variant='conatined' className='btn capitalize' >Use the App to Order</Button>
 
           {/* <div className='flex space-x-12' >

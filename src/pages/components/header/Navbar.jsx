@@ -40,7 +40,7 @@ const pages = [
 ]
 
 
-export default function Example() {
+export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const router = useRouter();
 

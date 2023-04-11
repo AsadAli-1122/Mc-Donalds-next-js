@@ -10,8 +10,8 @@ export default function Rewards() {
     <Layoutdefault title="MyMcDonald's® Rewards: Get Free Food & Deals | McDonalds" >
 
 
-      <div className='mx-auto px-10 text-center text-5xl mt-20 mb-10 font-bold'>MyMcDonald’s Rewards</div>
-      <p className='mx-auto px-10 max-w-6xl mb-20'>With the McDonald’s app, you can earn points on every order to redeem for free McDonald's. Plus, get access to exclusive daily deals, easily re-order faves and select convenient pickup options with Mobile Order & Pay.</p>
+      <div className='mx-auto px-10 text-center text-5xl mt-20 mb-10 font-bold'>MyMcDonald&apos;s Rewards</div>
+      <p className='mx-auto px-10 max-w-6xl mb-20'>With the McDonald&apos;s app, you can earn points on every order to redeem for free McDonald&apos;s. Plus, get access to exclusive daily deals, easily re-order faves and select convenient pickup options with Mobile Order & Pay.</p>
 
 
 
@@ -41,7 +41,7 @@ export default function Rewards() {
 
 
       <div className='mx-auto px-10 max-w-6xl text-4xl mt-20 mb-6 font-bold'>How to Earn Points and Redeem Faves</div>
-      <p className='mx-auto px-10 max-w-6xl mb-20'>Order like a pro––all it takes is one code or one scan to earn MyMcDonald’s Rewards points, quickly pay and redeem your favorites.</p>
+      <p className='mx-auto px-10 max-w-6xl mb-20'>Order like a pro––all it takes is one code or one scan to earn MyMcDonald&apos;s Rewards points, quickly pay and redeem your favorites.</p>
 
 
 
@@ -60,7 +60,7 @@ export default function Rewards() {
           <div className="p-7 flex flex-col space-y-6">
             <div className='flex flex-col space-y-4'>
               <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Easily Earn Points</h1>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Select the ‘Earn Points’ tab in the McDonald's app found on the bottom menu bar. Access the 4-digit Drive Thru Code or code to scan at the counter or kiosk. When you place your order in the app, you'll automatically earn your points.</p>
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Select the &apos;Earn Points&apos; tab in the McDonald&apos;s app found on the bottom menu bar. Access the 4-digit Drive Thru Code or code to scan at the counter or kiosk. When you place your order in the app, you&apos;ll automatically earn your points.</p>
             </div>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default function Rewards() {
             <div className='flex flex-col space-y-4'>
               <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Pay & Earn All in One Step</h1>
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Link your card details to the app so you can conveniently pay and earn points at the same time—including an extra 1500 Bonus Points on your first payment using your linked card. Then, simply tell us your Drive Thru code before placing your order at the speaker or scan the code in-restaurant.</p>
-              <p className='text-xs'>*Bonus points may take up to 10 days to appear in your account. Rewards program available only at participating McDonald's. McDonald's app download and registration required.</p>
+              <p className='text-xs'>*Bonus points may take up to 10 days to appear in your account. Rewards program available only at participating McDonald&apos;s. McDonald&apos;s app download and registration required.</p>
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@ export default function Rewards() {
           <div className="p-7 flex flex-col space-y-6">
             <div className='flex flex-col space-y-4'>
               <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Redeem Free McDonald’s</h1>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Go to the Rewards & Deals tab. There you can select the menu item you want to redeem. Choose ‘Use at Restaurant’ to get the Drive Thru code, or select ‘Use Restaurant Code’ when you’re inside to reveal the code to use at the counter or kiosk.</p>
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Go to the Rewards & Deals tab. There you can select the menu item you want to redeem. Choose &apos;Use at Restaurant&apos; to get the Drive Thru code, or select &apos;Use Restaurant Code&apos; when you&apos;re inside to reveal the code to use at the counter or kiosk.</p>
             </div>
           </div>
         </div>
@@ -106,7 +106,7 @@ export default function Rewards() {
 
 
       <div className='mx-auto px-10 max-w-6xl text-4xl mt-20 mb-6 font-bold'>More Points Unlock More Rewards</div>
-      <p className='mx-auto px-10 max-w-6xl mb-20'>It's easy to track your McDonald's points and see how far you are from unlocking the next tier of free McDonald's.</p>
+      <p className='mx-auto px-10 max-w-6xl mb-20'>It&apos;s easy to track your McDonald&apos;s points and see how far you are from unlocking the next tier of free McDonald&apos;s.</p>
 
 
 
@@ -125,7 +125,7 @@ export default function Rewards() {
           <div className="py-7 flex flex-col space-y-6">
             <div className='flex flex-col space-y-4'>
               <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">1500 Points</h1>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Choose your McDonald's item, whether you’re craving a McChicken® (Regular or Hot ‘N Spicy), Hash Browns, Vanilla Cone or our classic Cheeseburger.</p>
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Choose your McDonald&apos;s item, whether you&apos;re craving a McChicken® (Regular or Hot &apos;N Spicy), Hash Browns, Vanilla Cone or our classic Cheeseburger.</p>
             </div>
           </div>
         </div>
@@ -185,7 +185,7 @@ export default function Rewards() {
         </div>
       </div>
 
-      
+
     </Layoutdefault>
   )
 }

@@ -7,7 +7,7 @@ import Image from 'next/image';
 import Sidebar from '../../components/header/Sidebar';
 import Products from '../../data/products/Products.json'
 
-export default function index() {
+export default function Index() {
   const router = useRouter();
   const { id } = router.query;
 

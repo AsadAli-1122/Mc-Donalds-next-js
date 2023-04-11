@@ -3,7 +3,7 @@ import Products from '../../../data/products/Products.json'
 import React from 'react'
 import Layoutallproducts from '../../../components/Layouts/Layoutallproducts';
 
-export default function index() {
+export default function Index() {
   const router = useRouter();
   const { id, products } = router.query;
 

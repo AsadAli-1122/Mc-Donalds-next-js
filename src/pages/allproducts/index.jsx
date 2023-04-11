@@ -16,11 +16,11 @@ export default function Index() {
         <Sidebar />
         <main className='w-full'>
           <div className='py-20 space-y-10'>
-            <h1 className='text-center text-5xl font-extrabold'>McDonald's Menu</h1>
+            <h1 className='text-center text-5xl font-extrabold'>McDonald &apos; s Menu</h1>
             <h2 className='text-center text-3xl font-bold'>Featured Favorites</h2>
           </div>
-            {featuredFavorites.map((item) => (
-          <div className='grid grid-cols-3'>
+            {featuredFavorites.map((item,index) => (
+          <div key={index} className='grid grid-cols-3'>
               {item.products.map((i)=>(
                   <div key={i.id} className='flex flex-col justify-center items-center w-full p-3 text-center font-semibold'>
                 <Link href={`/allproducts/featured-favorites/${i.id}`} className='flex flex-col items-center justify-center space-x-6'>
@@ -42,8 +42,8 @@ export default function Index() {
         </main>
       </div>
       <div className="max-w-6xl mx-auto w-full">
-        {otherProducts.map(category => (
-          <div className="w-full my-8 ">
+        {otherProducts.map((category,index) => (
+          <div key={index} className="w-full my-8 ">
             <h2 className="text-5xl font-bold mb-4 text-center ">{category.name}</h2>
             <div className="grid grid-cols-4 gap-10 ">
               {category.products.map(product => (

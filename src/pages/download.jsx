@@ -6,7 +6,7 @@ import { Button } from '@mui/material'
 export default function Download() {
   return (
     <Layoutdefault title="Download the McDonald's App: Deals, Promotions & Rewards | McDonald's">
-      <div className='text-center text-5xl my-20 font-bold'>McDonald's App</div>
+      <div className='text-center text-5xl my-20 font-bold'>McDonald&apos;s App</div>
       <div className='my-20'>
         {Posters.Download.map((poster) => (
           <div key={poster.id} className='flex flex-col xl:flex-row cmn my-20'>
@@ -65,7 +65,7 @@ export default function Download() {
       </div>
         <div className='max-w-6xl mx-auto flex-col space-y-6 my-12 '>
           <h1 className='text-3xl font-bold'>Deals and Much More</h1>
-          <p>With the McDonald’s app, you’ll get access to exclusive deals. Use the app to order ahead and pass the line with Mobile Order & Pay plus join MyMcDonald’s Rewards to earn points on every order to redeem for free McDonald's.</p>
+          <p>With the McDonald&apos;s app, you&apos;ll get access to exclusive deals. Use the app to order ahead and pass the line with Mobile Order & Pay plus join MyMcDonald&apos;s Rewards to earn points on every order to redeem for free McDonald&apos;s.</p>
         </div>
     </Layoutdefault>
   )
