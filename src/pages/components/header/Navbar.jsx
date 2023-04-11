@@ -45,7 +45,7 @@ export default function Example() {
   const router = useRouter();
 
   const normal = "nav-product pb-5 border-b-4 border-white hover:border-b-4 hover:border-red-700";
-  const active = "nav-product font-semibold border-b-4 border-red-700"
+  const active = "nav-product font-bold border-b-4 border-red-700"
 
   // const featuredFavorites = Products.filter((product) => product.id === "featured-favorites");
   // const otherProducts = Products.filter((product) => product.id !== "featured-favorites");

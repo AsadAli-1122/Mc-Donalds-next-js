@@ -91,5 +91,15 @@
             "smallDetails": "*Offer valid 1x thru the last day of the month for first time app users at participating McDonald's. May take up to 48 hours to appear in your deals. Excludes tax.",
             "btnText": "Get a Free Big Mac"
         }
+    ],
+    "Deals": [
+        {
+            "id": "1",
+            "imgSrc": "/images/1pub_FreeBigMac_2336x1040v7.jpg",
+            "title": "Free Big Mac®. One for the Price of None.",
+            "description": "Download the McD’s app to score a free Big Mac with $1 minimum purchase. The burger with the special sauce could be in your hands today. Get yours for a limited time.*",
+            "smallDetails": "*Offer valid 1x thru the last day of the month for first time app users at participating McDonald's. May take up to 48 hours to appear in your deals. Excludes tax.",
+            "btnText": "Get a Free Big Mac"
+        }
     ]
 }

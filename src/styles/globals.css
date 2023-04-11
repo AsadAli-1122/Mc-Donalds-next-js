@@ -4,7 +4,7 @@
 
 
 .btn{
-  @apply bg-[#FFBC0D] text-black hover:bg-yellow-500 w-fit font-medium;
+  @apply bg-[#FFBC0D] text-black hover:bg-yellow-500 w-fit font-medium uppercase;
 }
 .cmn{
   @apply flex items-center max-w-6xl mx-auto;
